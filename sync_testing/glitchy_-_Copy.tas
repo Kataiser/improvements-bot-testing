@@ -6,6 +6,7 @@ console load awheyaway/GlitchyPlatformer/glitchyplatformer
 #Start
 #lvl_00
    1,L,J
+Assert,Equal,awheyaway/GlitchyPlatformer/glitchyplatformer,{Level.Session.Area.SID}
    1,L,K
    1,L,J
    1,L,K
